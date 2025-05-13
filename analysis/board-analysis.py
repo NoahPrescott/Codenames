@@ -76,9 +76,9 @@ def get_mean_relatedness(clue, intended_words, rel_judgments):
     
     
 def calculate_relatedness_difference_and_predict_performance():
-    with open('superdata!.json') as f:
+    with open('../data/raw/gpt/relatedness/combined-data.json') as f:
         super_data = json.load(f)
-    with open('relatedness-data.json') as f:
+    with open('../data/raw/gpt/relatedness/relatedness-data.json') as f:
         relatedness_data = json.load(f)
     # construct dictionary with mean relatedness judgments
     rel_judgments = construct_rel_dict(relatedness_data)

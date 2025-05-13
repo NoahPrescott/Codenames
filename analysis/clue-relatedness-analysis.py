@@ -18,9 +18,9 @@ def ensure_list(value):
 
 
 def calculate_relatedness_difference_and_predict_performance():
-    with open('superdata!.json') as f:
+    with open('./data/combined/combined-data.json') as f:
         super_data = json.load(f)
-    with open('relatedness-data.json') as f:
+    with open('./data/combined/relatedness-data.json') as f:
         relatedness_data = json.load(f)
     
     relatedness_dict = defaultdict(lambda: {'human': {'relatedness': {}}, 'gpt': {'relatedness': {}}})
@@ -87,3 +87,5 @@ def calculate_relatedness_difference_and_predict_performance():
         print(f"Error: Mismatch in paired data! Relatedness: {len(relatedness_differences)}, Performance: {len(performance_differences)}")
 
 calculate_relatedness_difference_and_predict_performance()
+        
+    

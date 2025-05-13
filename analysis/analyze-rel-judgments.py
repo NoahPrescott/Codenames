@@ -126,22 +126,22 @@ def compare_human_and_gpt_clues(boards, gpt_clue_gpt_judgment_dict, gpt_clue_hum
 
 if __name__=="__main__":
     # Load data
-    with open('gpt-clue-gpt-relatedness-oct20-averaged-judgments.json') as f:
+    with open('../data/raw/gpt/relatedness/gpt-clue-gpt-relatedness-oct20-averaged-judgments.json') as f:
         gpt_clue_gpt_judgment_dict = json.load(f)
-    with open('data/human-data/pair-similarity-gpt-clue/data.json') as f:
+    with open('../data/raw/human/experiment-1/experiment-1-data.json') as f:
         gpt_clue_human_judgment_dict = json.load(f)
     # this is the 80 boards with gpt clues for which we got human and gpt relatedness judgments
-    with open('board_subset.json') as f:
+    with open('../data/raw/gpt/guess-on-gpt-clue/board_subset.json') as f:
         boards = json.load(f)
         
-    with open('human-clue-human-judgement-postexp-nov24.json') as f:
+    with open('../data/raw/human/experiment-2/exptDataHumanClue.json') as f:
         human_clue_human_judgment_dict = json.load(f)
-    with open('human-clue-gpt-relatedness-oct10-averaged-judgments.json') as f:
+    with open('../data/raw/gpt/relatedness/human-clue-gpt-relatedness-oct10-averaged-judgments.json') as f:
         human_clue_gpt_judgment_dict = json.load(f)
 
-    with open('boards_and_responses.json') as f:
+    with open('../data/raw/human/guess-human-clue/boards_and_responses.json') as f:
         human_clues_boards = json.load(f)
-    with open('gpt4-clues-final-p2-1.0.json') as f:
+    with open('../data/raw/gpt/guess-on-gpt-clue/gpt4-own-guesses-final-p2-1.0') as f:
         gpt_clues_boards = json.load(f)
 
 

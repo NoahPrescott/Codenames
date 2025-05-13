@@ -62,9 +62,9 @@ def writeCluesAndBoardsToFile(trials):
 
 #rewrite subject and trial data files with desired data types and return data
 def getData():
-    with open('human_data/full-run-1/trials.json') as f:
+    with open('../data/raw/human/experiment-1/experiment-1-trials.json') as f:
         td = json.load(f)
-    with open('human_data/full-run-1/subjects.json') as f:
+    with open('../data/raw/human/experiment-1/experiment-1-subjects.json') as f:
         sd = json.load(f)
     #fix up trial data
     for i in range(len(td)):  
@@ -88,14 +88,15 @@ def printCorrectRough(trials):
     print(f"Total Correct: {total_correct}")
     print(f"Correctness Percentage: {correctness_percentage:.2f}%")
 
-data, subj_data = getData()
-tr = getGoodTrials(data)
-printCorrectRough(tr)
-writeCluesAndBoardsToFile(tr)
+# data, subj_data = getData()
+# tr = getGoodTrials(data)
+# printCorrectRough(tr)
+# writeCluesAndBoardsToFile(tr)
+#rewrite subject and trial data files with desired data types and return data
 
 
 # to convert a boards_and_responses.json type file:
-# with open('boards_and_responses.json') as m:
+# with open('../data/raw/human/guess-human-clue/boards_and_responses.json') as m:
 #     human_guess_human_clue = json.load(m)
 # writeCluesAndBoardsToFile(human_guess_human_clue)
 

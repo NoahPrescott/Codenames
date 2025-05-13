@@ -17,7 +17,7 @@ def get_gpt_correct(all, intended, res):
     return len([r for r in res if r in intended])/3
 
 def make_correct_df():
-    with open('gpt4-guess-to-own-clue.json') as f:
+    with open('./data/raw/gpt/guess-on-gpt-clue/gpt4-guess-to-own-clue.json') as f:
         res_data = json.load(f)
     data = []
     for i, board in enumerate(res_data['boards']):
@@ -51,7 +51,7 @@ def make_correct_simple(file):
 
 
 def compare_guesses():
-    with open('gpt4-responses.json') as f:
+    with open('../data/raw/gpt/guess-on-human-clue/gpt4-responses.json') as f:
         res_data = json.load(f)
     data = []
     for i, board in enumerate(res_data['boards']):

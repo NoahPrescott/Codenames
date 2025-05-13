@@ -4,16 +4,16 @@ from collections import defaultdict
 
 file_paths = [
     # gpt clues
-    # "gpt-clue-gpt-relatedness-oct20batch-1.json",
-    # "gpt-clue-gpt-relatedness-oct20batch-2.json",
-    # "gpt-clue-gpt-relatedness-oct20batch-3.json",
-    # "gpt-clue-gpt-relatedness-oct20batch-4.json"
+    # "../data/raw/gpt/relatedness/gpt-clue-gpt-relatedness-oct20batch-1.json",
+    # "../data/raw/gpt/relatedness/gpt-clue-gpt-relatedness-oct20batch-2.json",
+    # "../data/raw/gpt/relatedness/gpt-clue-gpt-relatedness-oct20batch-3.json",
+    # "../data/raw/gpt/relatedness/gpt-clue-gpt-relatedness-oct20batch-4.json"
 
     #human clues
-    "human-clue-gpt-relatedness-oct10batch-1.json",
-    "human-clue-gpt-relatedness-oct10batch-2.json",
-    "human-clue-gpt-relatedness-oct10batch-3.json",
-    "human-clue-gpt-relatedness-oct10batch-4.json"
+    "../data/raw/gpt/relatedness/human-clue-gpt-relatedness-oct10batch-1.json",
+    "../data/raw/gpt/relatedness/human-clue-gpt-relatedness-oct10batch-2.json",
+    "../data/raw/gpt/relatedness/human-clue-gpt-relatedness-oct10batch-3.json",
+    "../data/raw/gpt/relatedness/human-clue-gpt-relatedness-oct10batch-4.json"
 ]
 
 data = defaultdict(lambda: defaultdict(list))
