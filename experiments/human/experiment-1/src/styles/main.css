@@ -1,0 +1,19 @@
+@import 'jspsych/css/jspsych.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Buttons */
+  button {
+    @apply cursor-pointer select-none rounded border border-transparent bg-blue-500 px-5 py-2 text-base font-extrabold text-black enabled:transition-colors enabled:duration-200 enabled:hover:border-red-500 enabled:focus:outline-none enabled:active:bg-blue-300 enabled:active:transition-colors disabled:pointer-events-none disabled:bg-gray-400;
+  }
+
+  /* Text boxes */
+  input[type="text"],
+  input[type="number"],
+  textarea {
+    @apply border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:border-blue-500;
+  }
+}

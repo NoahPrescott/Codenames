@@ -1,0 +1,4806 @@
+{
+  "__collections__": {
+    "human-clue-word-pairs": [
+      {
+        "word1": "four",
+        "word2": "model",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "ham",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "spike",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "crown",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "bank",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "plot",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "tooth",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "stock",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "helicopter",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "shadow",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "club",
+        "count": 0
+      },
+      {
+        "word1": "four",
+        "word2": "africa",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "fork",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "litter",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "plane",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "green",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "grace",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "string",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "wave",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "wall",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "bar",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "night",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "light",
+        "count": 0
+      },
+      {
+        "word1": "l-words",
+        "word2": "link",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "ketchup",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "point",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "triangle",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "stream",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "tokyo",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "fair",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "bugle",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "mail",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "scale",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "ship",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "berlin",
+        "count": 0
+      },
+      {
+        "word1": "package",
+        "word2": "trunk",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "alps",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "code",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "queen",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "pass",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "bermuda",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "genius",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "thumb",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "mint",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "ninja",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "maple",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "lawyer",
+        "count": 0
+      },
+      {
+        "word1": "green",
+        "word2": "horse",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "wake",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "force",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "pass",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "sink",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "nut",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "circle",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "bomb",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "pit",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "pole",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "cover",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "limousine",
+        "count": 0
+      },
+      {
+        "word1": "military",
+        "word2": "fish",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "saturn",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "cold",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "hood",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "plate",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "seal",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "back",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "europe",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "fan",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "tick",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "needle",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "plane",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "death",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "link",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "spike",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "lead",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "mass",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "concert",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "box",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "ivory",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "tower",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "server",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "bottle",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "grace",
+        "count": 0
+      },
+      {
+        "word1": "horse",
+        "word2": "mount",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "drill",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "snow",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "ghost",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "fire",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "bill",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "war",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "grace",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "honey",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "spot",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "flute",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "model",
+        "count": 0
+      },
+      {
+        "word1": "names",
+        "word2": "fair",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "park",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "platypus",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "circle",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "skyscraper",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "poison",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "flute",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "microscope",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "alien",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "mouth",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "ghost",
+        "count": 0
+      },
+      {
+        "word1": "hamlet",
+        "word2": "cricket",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "date",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "pistol",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "mug",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "dice",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "star",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "hood",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "pool",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "palm",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "tokyo",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "greece",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "code",
+        "count": 0
+      },
+      {
+        "word1": "chances",
+        "word2": "head",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "trunk",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "dwarf",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "dice",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "orange",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "ring",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "agent",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "oil",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "cap",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "life",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "chest",
+        "count": 0
+      },
+      {
+        "word1": "crime",
+        "word2": "smuggler",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "bomb",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "wake",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "rose",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "slug",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "drill",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "tokyo",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "paper",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "undertaker",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "strike",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "telescope",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "kid",
+        "count": 0
+      },
+      {
+        "word1": "destruction",
+        "word2": "stadium",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "pyramid",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "button",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "plot",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "fan",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "game",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "fall",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "ham",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "dwarf",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "play",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "witch",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "duck",
+        "count": 0
+      },
+      {
+        "word1": "alive",
+        "word2": "spot",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "limousine",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "bug",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "himalayas",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "deck",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "novel",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "port",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "cat",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "fork",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "face",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "aztec",
+        "count": 0
+      },
+      {
+        "word1": "fancy",
+        "word2": "whip",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "revolution",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "screen",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "teacher",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "port",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "rabbit",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "hotel",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "club",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "leprechaun",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "copper",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "disease",
+        "count": 0
+      },
+      {
+        "word1": "school",
+        "word2": "bell",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "field",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "temple",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "light",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "mouse",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "force",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "mug",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "trip",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "school",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "hand",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "tick",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "scale",
+        "count": 0
+      },
+      {
+        "word1": "weight",
+        "word2": "strike",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "chocolate",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "horn",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "stick",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "teacher",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "centaur",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "helicopter",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "ham",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "mint",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "bill",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "satellite",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "green",
+        "count": 0
+      },
+      {
+        "word1": "eggs",
+        "word2": "face",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "olympus",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "shark",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "alps",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "concert",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "stadium",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "spider",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "crash",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "triangle",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "cricket",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "bear",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "lead",
+        "count": 0
+      },
+      {
+        "word1": "musical",
+        "word2": "capital",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "crane",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "genius",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "foot",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "horse",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "france",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "worm",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "diamond",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "beach",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "box",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "horseshoe",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "lab",
+        "count": 0
+      },
+      {
+        "word1": "hoof",
+        "word2": "kiwi",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "luck",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "conductor",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "canada",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "france",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "fall",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "robot",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "roulette",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "table",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "row",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "sub",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "jack",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "washington",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "block",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "belt",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "poison",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "cotton",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "paste",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "spot",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "van",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "iron",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "press",
+        "count": 0
+      },
+      {
+        "word1": "clothes",
+        "word2": "canada",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "spine",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "pound",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "sound",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "boom",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "mole",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "wake",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "brush",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "horse",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "oil",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "pumpkin",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "tablet",
+        "count": 0
+      },
+      {
+        "word1": "loud",
+        "word2": "pistol",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "skyscraper",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "agent",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "spring",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "cell",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "alien",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "cross",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "round",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "scorpion",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "seal",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "slug",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "circular",
+        "word2": "platypus",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "compound",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "fighter",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "lock",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "field",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "plane",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "scuba diver",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "buffalo",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "torch",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "ambulance",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "mexico",
+        "count": 0
+      },
+      {
+        "word1": "map",
+        "word2": "post",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "millionaire",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "platypus",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "fence",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "spring",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "water",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "america",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "luck",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "london",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "novel",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "deck",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "ice",
+        "count": 0
+      },
+      {
+        "word1": "usa",
+        "word2": "cloak",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "gas",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "slug",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "round",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "microscope",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "slip",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "head",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "hotel",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "pipe",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "shop",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "racket",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "unicorn",
+        "count": 0
+      },
+      {
+        "word1": "fall",
+        "word2": "play",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "snow",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "scale",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "spy",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "wind",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "alien",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "berlin",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "pan",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "genius",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "cell",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "plot",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "ivory",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "face",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "organ",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "part",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "pupil",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "missile",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "shoe",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "ball",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "france",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "kangaroo",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "spike",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "hook",
+        "count": 0
+      },
+      {
+        "word1": "transplant",
+        "word2": "stick",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "school",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "conductor",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "date",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "band",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "square",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "cliff",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "trunk",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "lawyer",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "eagle",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "egypt",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "lemon",
+        "count": 0
+      },
+      {
+        "word1": "teacher",
+        "word2": "cotton",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "berlin",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "fall",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "fair",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "well",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "block",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "suit",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "ivory",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "alps",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "wake",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "pit",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "fan",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "green",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "beijing",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "undertaker",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "stream",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "code",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "board",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "box",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "canada",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "fork",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "berlin",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "hood",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "ruler",
+        "count": 0
+      },
+      {
+        "word1": "locations",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "cell",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "scientist",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "eagle",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "czech",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "lab",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "kangaroo",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "green",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "chest",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "mug",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "log",
+        "count": 0
+      },
+      {
+        "word1": "science",
+        "word2": "superhero",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "boom",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "chair",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "link",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "litter",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "helicopter",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "pan",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "scientist",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "suit",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "oil",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "shark",
+        "count": 0
+      },
+      {
+        "word1": "macgyver",
+        "word2": "shadow",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "amazon",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "ice",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "microscope",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "cricket",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "mug",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "arm",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "cap",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "deck",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "bank",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "africa",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "press",
+        "count": 0
+      },
+      {
+        "word1": "a",
+        "word2": "poison",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "agent",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "jet",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "concert",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "glove",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "whip",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "angel",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "ninja",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "bolt",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "hotel",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "dance",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "rock",
+        "count": 0
+      },
+      {
+        "word1": "person",
+        "word2": "bond",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "piano",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "train",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "shakespeare",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "cat",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "scuba diver",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "row",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "time",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "theater",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "hawk",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "engine",
+        "count": 0
+      },
+      {
+        "word1": "shows",
+        "word2": "box",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "field",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "star",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "line",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "lemon",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "fighter",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "game",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "disease",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "helicopter",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "france",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "carrot",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "alien",
+        "count": 0
+      },
+      {
+        "word1": "sky",
+        "word2": "mass",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "chair",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "spring",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "agent",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "berlin",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "olive",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "teacher",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "cat",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "box",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "microscope",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "nail",
+        "count": 0
+      },
+      {
+        "word1": "spy",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "bar",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "bolt",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "dog",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "point",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "england",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "lap",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "link",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "pool",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "pitch",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "tube",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "czech",
+        "count": 0
+      },
+      {
+        "word1": "water",
+        "word2": "pan",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "canada",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "jam",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "plastic",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "nurse",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "conductor",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "pants",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "beach",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "washington",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "centaur",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "paste",
+        "count": 0
+      },
+      {
+        "word1": "sticky",
+        "word2": "chocolate",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "theater",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "mount",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "whip",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "dress",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "sound",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "play",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "africa",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "shakespeare",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "cotton",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "pin",
+        "count": 0
+      },
+      {
+        "word1": "toto",
+        "word2": "microscope",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "watch",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "litter",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "whale",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "pound",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "file",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "bow",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "pants",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "triangle",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "czech",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "ivory",
+        "count": 0
+      },
+      {
+        "word1": "accessories",
+        "word2": "cook",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "agent",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "mercury",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "pass",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "crane",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "cast",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "slip",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "tail",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "date",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "triangle",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "pool",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "horn",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "kangaroo",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "mass",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "soldier",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "sub",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "compound",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "back",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "dinosaur",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "dice",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "genius",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "rock",
+        "count": 0
+      },
+      {
+        "word1": "geology",
+        "word2": "temple",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "penguin",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "degree",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "scorpion",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "novel",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "line",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "shot",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "england",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "trunk",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "witch",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "aztec",
+        "count": 0
+      },
+      {
+        "word1": "plot",
+        "word2": "kid",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "missile",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "washington",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "apple",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "square",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "bar",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "moscow",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "knight",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "forest",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "water",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "sub",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "spike",
+        "count": 0
+      },
+      {
+        "word1": "digest",
+        "word2": "cotton",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "greece",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "dress",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "tablet",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "hotel",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "stock",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "bomb",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "london",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "light",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "band",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "iron",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "aztec",
+        "count": 0
+      },
+      {
+        "word1": "place",
+        "word2": "root",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "ninja",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "death",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "honey",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "beat",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "engine",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "draft",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "doctor",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "copper",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "check",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "table",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "watch",
+        "count": 0
+      },
+      {
+        "word1": "nightstick",
+        "word2": "palm",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "snow",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "nut",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "lead",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "unicorn",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "witch",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "shakespeare",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "switch",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "force",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "water",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "genius",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "undertaker",
+        "count": 0
+      },
+      {
+        "word1": "mythical",
+        "word2": "loch ness",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "pound",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "disease",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "fan",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "pipe",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "cover",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "soldier",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "glove",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "turkey",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "gas",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "copper",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "casino",
+        "count": 0
+      },
+      {
+        "word1": "addiction",
+        "word2": "shop",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "track",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "spike",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "alien",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "himalayas",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "pipe",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "bill",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "conductor",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "ray",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "stream",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "plastic",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "location",
+        "word2": "beijing",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "tablet",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "mug",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "slug",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "grace",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "star",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "mass",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "roulette",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "czech",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "check",
+        "count": 0
+      },
+      {
+        "word1": "salem",
+        "word2": "witch",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "diamond",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "missile",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "jet",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "limousine",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "soul",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "india",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "green",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "paper",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "honey",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "spell",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "racket",
+        "count": 0
+      },
+      {
+        "word1": "flying",
+        "word2": "air",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "mass",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "chick",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "boom",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "fork",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "suit",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "robot",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "opera",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "cook",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "revolution",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "lemon",
+        "count": 0
+      },
+      {
+        "word1": "kitchen",
+        "word2": "slip",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "limousine",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "eagle",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "wall",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "dwarf",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "church",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "saturn",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "space",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "bark",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "princess",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "cycle",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "pan",
+        "count": 0
+      },
+      {
+        "word1": "above",
+        "word2": "parachute",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "satellite",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "glove",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "row",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "file",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "penguin",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "ambulance",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "bridge",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "cover",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "staff",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "green",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "ground",
+        "count": 0
+      },
+      {
+        "word1": "collapsed",
+        "word2": "boom",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "march",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "atlantis",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "embassy",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "capital",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "england",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "bomb",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "part",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "light",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "glove",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "pit",
+        "count": 0
+      },
+      {
+        "word1": "london",
+        "word2": "ketchup",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "tooth",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "new york",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "court",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "web",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "pyramid",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "embassy",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "dinosaur",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "rabbit",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "alps",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "dog",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "ship",
+        "count": 0
+      },
+      {
+        "word1": "animal",
+        "word2": "head",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "novel",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "tap",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "stream",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "pyramid",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "jupiter",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "penguin",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "kid",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "cycle",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "ice cream",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "contract",
+        "count": 0
+      },
+      {
+        "word1": "exercise",
+        "word2": "ninja",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "date",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "nurse",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "bridge",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "ring",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "plot",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "bank",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "note",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "novel",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "platypus",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "pit",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "change",
+        "count": 0
+      },
+      {
+        "word1": "climax",
+        "word2": "horse",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "helicopter",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "turkey",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "beach",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "post",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "shark",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "hand",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "yard",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "chair",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "straw",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "bell",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "amazon",
+        "count": 0
+      },
+      {
+        "word1": "farm",
+        "word2": "cook",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "pound",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "life",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "nail",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "van",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "tokyo",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "scale",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "circle",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "shot",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "cast",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "key",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "card",
+        "count": 0
+      },
+      {
+        "word1": "measurement",
+        "word2": "racket",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "ray",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "oil",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "dance",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "bat",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "lab",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "cast",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "hawk",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "string",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "horn",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "saturn",
+        "count": 0
+      },
+      {
+        "word1": "animals",
+        "word2": "hole",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "beach",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "hole",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "doctor",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "mouse",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "stick",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "fish",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "board",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "witch",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "whale",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "limousine",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "octopus",
+        "count": 0
+      },
+      {
+        "word1": "ocean",
+        "word2": "dwarf",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "pants",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "gas",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "tablet",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "box",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "plastic",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "satellite",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "mexico",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "conductor",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "oil",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "plane",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "drop",
+        "count": 0
+      },
+      {
+        "word1": "energy",
+        "word2": "spider",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "agent",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "hawk",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "disease",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "china",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "lion",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "embassy",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "dragon",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "snow",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "moon",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "pirate",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "time",
+        "count": 0
+      },
+      {
+        "word1": "strength",
+        "word2": "part",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "snow",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "fighter",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "vet",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "strike",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "himalayas",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "sink",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "face",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "snowman",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "australia",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "pole",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "ham",
+        "count": 0
+      },
+      {
+        "word1": "cold",
+        "word2": "knight",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "knife",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "oil",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "smuggler",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "racket",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "fish",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "pistol",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "scuba diver",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "pit",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "part",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "doctor",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "lab",
+        "count": 0
+      },
+      {
+        "word1": "ingredient",
+        "word2": "olive",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "platypus",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "war",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "bond",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "angel",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "space",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "giant",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "ball",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "string",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "web",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "dress",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "copper",
+        "count": 0
+      },
+      {
+        "word1": "attached",
+        "word2": "beat",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "mail",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "block",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "limousine",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "church",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "kid",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "ivory",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "spy",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "buck",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "heart",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "rock",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "wedding",
+        "word2": "contract",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "princess",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "film",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "cast",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "chick",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "shark",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "beat",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "soul",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "lap",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "nurse",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "mouth",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "disease",
+        "count": 0
+      },
+      {
+        "word1": "females",
+        "word2": "charge",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "mint",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "bank",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "check",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "litter",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "stadium",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "spell",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "link",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "witch",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "post",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "back",
+        "count": 0
+      },
+      {
+        "word1": "money",
+        "word2": "gold",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "board",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "sink",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "apple",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "olympus",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "match",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "marble",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "draft",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "berlin",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "film",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "new york",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "flute",
+        "count": 0
+      },
+      {
+        "word1": "city",
+        "word2": "tube",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "mass",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "head",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "litter",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "arm",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "circle",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "pyramid",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "point",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "stock",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "hood",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "buck",
+        "count": 0
+      },
+      {
+        "word1": "round",
+        "word2": "thief",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "plot",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "mount",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "button",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "lemon",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "platypus",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "hand",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "thief",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "bugle",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "yard",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "star",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "robin",
+        "count": 0
+      },
+      {
+        "word1": "yellow",
+        "word2": "staff",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "cap",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "undertaker",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "stadium",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "police",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "skyscraper",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "pound",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "square",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "cell",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "cloak",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "beijing",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "glove",
+        "count": 0
+      },
+      {
+        "word1": "clothing",
+        "word2": "alps",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "whale",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "hollywood",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "tablet",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "ring",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "temple",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "ham",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "track",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "well",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "game",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "knight",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "cricket",
+        "count": 0
+      },
+      {
+        "word1": "circus",
+        "word2": "boot",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "shadow",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "seal",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "wave",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "ghost",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "point",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "tablet",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "orange",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "mouse",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "king",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "revolution",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "thumb",
+        "count": 0
+      },
+      {
+        "word1": "commando",
+        "word2": "hook",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "stick",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "helicopter",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "pole",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "port",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "cold",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "air",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "fair",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "greece",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "brush",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "aztec",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "drop",
+        "count": 0
+      },
+      {
+        "word1": "flag",
+        "word2": "kiwi",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "sub",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "dress",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "pie",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "deck",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "gas",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "hawk",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "dance",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "marble",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "pyramid",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "switch",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "star",
+        "count": 0
+      },
+      {
+        "word1": "party",
+        "word2": "soul",
+        "count": 0
+      }
+    ]
+  }
+}

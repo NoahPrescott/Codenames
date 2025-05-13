@@ -1,0 +1,9 @@
+matplotlib
+mplcursors
+numpy
+openai
+pandas
+plotly
+scipy
+seaborn
+statistics
